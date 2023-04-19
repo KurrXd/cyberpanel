@@ -6,5 +6,5 @@ yum install gcc openssl-devel bzip2-devel && cd /usr/src && wget https://www.pyt
 ```
 ## STEP 2 SELINUX DISABLE
 ```sh
-
+git clone https://github.com/KurrXd/cyberpanel && cd cyberpanel && mv config /etc/selinux/
 ```
