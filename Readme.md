@@ -29,7 +29,8 @@ sh <(curl https://cyberpanel.net/install.sh || wget -O - https://cyberpanel.net/
 
 ![image](https://user-images.githubusercontent.com/91126186/233060275-3a2eb4a5-9f97-4993-b016-001ae401b510.png)
 # IKUTI DIATAS DI VERSI (ENTER) SAJA
-![image](https://user-images.githubusercontent.com/91126186/233060791-99ea5d8d-7be2-4e2f-8c2f-55e145053979.png)
+
+![image](https://user-images.githubusercontent.com/91126186/233061302-c90e1d9d-91ae-4f30-9db8-c43211185e70.png)
 # ikuti lagi
 
 ## DAN TUNGGU SAMPAI KELAR
